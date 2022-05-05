@@ -1,4 +1,5 @@
-#luFactor uses LU Decomposition to solve for variables in linear algebra
+# luFactor
+Uses LU Decomposition to solve for variables in linear algebra
 ## Variables
 A is the coeficient Matrix
 ## Outputs
